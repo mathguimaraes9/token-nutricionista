@@ -1,0 +1,17 @@
+{
+  "name": "token-nutricionista",
+  "version": "1.0.0",
+  "description": "Criação de um token para passagem no nutricionista - Projeto para a disciplina de Sistemas distribuídos e mobile",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "uuid": "^9.0.1"
+  }
+}
